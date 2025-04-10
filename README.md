@@ -21,5 +21,19 @@ JavaScript
 
 Local Storage for data persistence
 
+🚀 How to Use:
+
+1. Clone the repository:
+   git clone https://github.com/Shubhamsingh22ns/ExpenseTracker.git
+
+2. Navigate to the project folder:
+   cd ExpenseTracker
+   
+4. Install dependencies:
+   npm install
+   
+6. Start the development server:
+   npm run start
+   
 📌 Live Preview:
 Deployed Link: https://expense-tracker-mu-snowy.vercel.app/
